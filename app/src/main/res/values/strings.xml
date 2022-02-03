@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">temp_convert</string>
+    <string name="convtemp">Convertitore di temperatura</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">fahrenheit</string>
+    <string name="c">C°</string>
+    <string name="f">°F</string>
+    <string name="converti">Converti</string>
+    <string name="da_c_a_f">da C° a °F</string>
+    <string name="temperatura_c">Temperatura C°</string>
+</resources>
